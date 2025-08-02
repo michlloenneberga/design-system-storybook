@@ -88,7 +88,7 @@ The project includes a GitHub Actions workflow that automatically:
 
 ## 📚 Documentation
 
-Visit the live Storybook documentation at: [Your GitHub Pages URL]
+Visit the live Storybook documentation at: https://michlloenneberga.github.io/design-system-storybook/
 
 ### Local Development
 - Run `npm run storybook` to start the development server
